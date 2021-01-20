@@ -1,4 +1,4 @@
-package com.zhh.algorithm.exercise;
+package com.zhh.algorithm.exercise.list;
 
 
 /**
