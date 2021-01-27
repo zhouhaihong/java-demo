@@ -2,6 +2,9 @@ package com.zhh.algorithm.exercise.stack;
 
 import com.zhh.algorithm.exercise.list.ListNode;
 
+/**
+ * 有关栈的LeetCode题：20,155,232,844,224,682,496.
+ */
 public class ListStack {
     private ListNode stack;
     private int count;
