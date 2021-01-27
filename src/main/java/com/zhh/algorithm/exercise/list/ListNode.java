@@ -1,9 +1,9 @@
 package com.zhh.algorithm.exercise.list;
 
 public class ListNode {
-    int val;
-    ListNode next;
-    ListNode() { }
-    ListNode(int x) { val = x; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+    public int val;
+    public ListNode next;
+    public ListNode() { }
+    public ListNode(int x) { val = x; }
+    public ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
