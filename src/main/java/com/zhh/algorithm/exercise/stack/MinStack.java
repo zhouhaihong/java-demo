@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 /**
- *设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。
+ *leedCode 155 最小栈：设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。
  *
  * push(x) —— 将元素 x 推入栈中。
  * pop() —— 删除栈顶的元素。
